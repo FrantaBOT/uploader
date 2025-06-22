@@ -81,7 +81,7 @@
                 <ul class="nav-links">
                     <li>
                         <a
-                            href="https://github.com/0Supa/uploader"
+                            href="https://github.com/FrantaBOT/uploader"
                             target="_blank">GitHub</a
                         >
                     </li>
