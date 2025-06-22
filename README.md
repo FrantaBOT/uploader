@@ -1,12 +1,5 @@
 ## Specification
 
-### Sibling domains
-
-- **[i.supa.codes](https://i.supa.codes/)**
-- [kappa.lol](https://kappa.lol/)
-- [gachi.gay](https://gachi.gay/)
-- [femboy.beauty](https://femboy.beauty/)
-
 **User uploads:**
 1. Files are accessible cross-domain, content is identical.
 2. File extensions (delimited by `.`) are optional and ignored.
@@ -14,9 +7,9 @@
 4. Any subdomain may be used on root domains.
 
 **These are all valid examples and link to the same resource:**
-- `https://kappa.lol/mXYBA`
-- `https://billy.gachi.gay/mXYBA.png`
-- `https://i.supa.codes/mXYBA/Kappa.png`
+- `https://DOMAIN/mXYBA`
+- `https://DOMAINy/mXYBA.png`
+- `https://DOMAIN/mXYBA/Kappa.png`
 
 ## License
 
