@@ -85,6 +85,7 @@
                             target="_blank">GitHub</a
                         >
                     </li>
+                    <!--
                     <li>
                         <a
                             class="support-btn"
@@ -98,6 +99,7 @@
                             Support
                         </a>
                     </li>
+                    -->
                 </ul>
             </div>
         </nav>
