@@ -12,7 +12,7 @@ const config = {
             strict: true,
         }),
         prerender: {
-            origin: "https://i.supa.codes",
+            origin: "https://segs.lol",
         }
     },
 };

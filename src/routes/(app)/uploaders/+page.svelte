@@ -82,7 +82,7 @@
         <summary>
             <a
                 target="_blank"
-                href="https://play.google.com/store/apps/details?id=com.flxrs.dankchat&ref=i.supa.codes"
+                href="https://play.google.com/store/apps/details?id=com.flxrs.dankchat&ref=segs.lol"
                 data-umami-event="dankchat-link">DankChat</a
             >
         </summary>
@@ -171,7 +171,7 @@
         Looking for a cool song/video queue manager for your Twitch chat?<br
         />Either way, check out
         <a
-            href="https://chat.vote/playlist/?ref=i.supa.codes"
+            href="https://chat.vote/playlist/?ref=segs.lol"
             target="_blank"
             data-umami-event="badoge-playlist-link">chat.vote/playlist</a
         >!

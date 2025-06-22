@@ -7,7 +7,7 @@
     Support
 </h2>
 
-<p><b>i.supa.codes</b> is an entirely free and ad-less service sustained without profit in mind.<br />Every donation is greatly appreciated!</p>
+<p><b>segs.lol</b> is an entirely free and ad-less service sustained without profit in mind.<br />Every donation is greatly appreciated!</p>
 
 <p>
     <b>Bitcoin:</b><br />
