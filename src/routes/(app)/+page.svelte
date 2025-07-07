@@ -233,7 +233,7 @@
         >
     </p>
     <p>
-        Max file size: 100 MB<br />Drag or paste files anywhere on this page to
+        Max file size: 100 MiB<br />Drag or paste files anywhere on this page to
         start uploading
     </p>
 
