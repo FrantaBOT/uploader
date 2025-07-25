@@ -1,4 +1,5 @@
 <script>
+    import { page } from "$app/stores";
     import Dialog from "$lib/components/Dialog.svelte";
     import Terms from "$lib/components/Terms.svelte";
     import { logError } from "$lib/components/errorLog";
@@ -232,6 +233,12 @@
             }}>Terms and Privacy Policy</a
         >
     </p>
+    {#if ["kappa.lol", "gachi.gay", "femboy.beauty", "localhost"].includes($page.url.hostname)}
+        <p style="display: inline-block; margin: 0;">
+            <b>{$page.url.hostname}</b> is no longer hosted by me, past files will not be recovered.<br/>
+            <span style="float: right; font-size: 8pt;">&mdash;Supa</span>
+        </p>
+    {/if}
     <p>
         Max file size: 100 MiB<br />Drag or paste files anywhere on this page to
         start uploading
