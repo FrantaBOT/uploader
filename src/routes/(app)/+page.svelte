@@ -233,9 +233,9 @@
             }}>Terms and Privacy Policy</a
         >
     </p>
-    {#if ["kappa.lol", "gachi.gay", "femboy.beauty", "localhost"].includes($page.url.hostname)}
+    {#if /(kappa.lol|gachi.gay|femboy.beauty)$/.test($page.url.hostname) }
         <p style="display: inline-block; margin: 0;">
-            <b>{$page.url.hostname}</b> is no longer hosted by me, past files will not be recovered.<br/>
+            <b>{$page.url.hostname}</b> is no longer hosted by me. Past files will not be recovered<br/>
             <span style="float: right; font-size: 8pt;">&mdash;Supa</span>
         </p>
     {/if}
