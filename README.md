@@ -1,14 +1,14 @@
 ## Specification
 
 **User uploads:**
-1. Files are accessible cross-domain, content is identical.
+1. Files are accessible cross-domain; content is identical.
 2. File extensions (delimited by `.`) are optional and ignored.
 3. Any parts of the URL after the first segment (delimited by `/`) are ignored.
 4. Any subdomain may be used on root domains.
 
 **These are all valid examples and link to the same resource:**
 - `https://DOMAIN/mXYBA`
-- `https://DOMAINy/mXYBA.png`
+- `https://DOMAIN/mXYBA.png`
 - `https://DOMAIN/mXYBA/Kappa.png`
 
 ## License
